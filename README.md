@@ -22,3 +22,13 @@ The system offers both video monitoring and automatic risk detection.
 A two-way audio feature lets parents communicate with the infant remotely.
 It can integrate with smart home devices for added convenience and control.
 This system enhances infant safety and provides parents with peace of mind.
+
+SCOPE
+
+The Smart Cradle System improves infant safety through real-time monitoring.
+It uses a Raspberry Pi Camera and machine learning to analyze sleep posture and movement.
+The system detects risks like suffocation or improper positions and sends instant alerts.
+Parents can monitor and receive notifications via a mobile or web interface.
+A two-way audio feature allows remote soothing of the infant.
+It integrates with smart home devices for added convenience and control.
+The project aims to reduce sleep-related incidents and promote safe infant care.
