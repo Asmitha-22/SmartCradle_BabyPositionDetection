@@ -32,3 +32,39 @@ Parents can monitor and receive notifications via a mobile or web interface.
 A two-way audio feature allows remote soothing of the infant.
 It integrates with smart home devices for added convenience and control.
 The project aims to reduce sleep-related incidents and promote safe infant care.
+
+OBJECTIVES
+
+To Enhance Infant Safety
+To Real-Time Alert System
+To Utilize Advanced Technologies
+To Promote Safe Sleep Practices
+To Optimize Resource Efficiency
+
+
+REQUIREMENTS
+
+Software Requirements:
+
+Numpy: For numerical operations and array manipulations.
+OpenCV (cv2): For image processing and handling video feeds.
+TensorFlow/Keras: For building and training deep learning models.
+Scikit-learn (Sklearn): For model evaluation and data splitting.
+Matplotlib: For data visualization, including plotting graphs and accuracy curves.
+
+Hardware Requirements:
+
+Raspberry Pi 3 Model B+: Central processing unit responsible for data processing and system control.
+Raspberry Pi Camera Module: Used for capturing high-resolution video of the infant.
+MicroSD Card: For storing the operating system and data.
+
+SYSTEM ARCHITECTURE
+
+
+![Screenshot 2025-04-13 140801](https://github.com/user-attachments/assets/03994285-f3ea-43af-9c03-1bc09ef9afd9)
+
+
+
+
+
+
