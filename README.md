@@ -36,9 +36,13 @@ The project aims to reduce sleep-related incidents and promote safe infant care.
 OBJECTIVES
 
 To Enhance Infant Safety
+
 To Real-Time Alert System
+
 To Utilize Advanced Technologies
+
 To Promote Safe Sleep Practices
+
 To Optimize Resource Efficiency
 
 
@@ -47,15 +51,21 @@ REQUIREMENTS
 Software Requirements:
 
 Numpy: For numerical operations and array manipulations.
+
 OpenCV (cv2): For image processing and handling video feeds.
+
 TensorFlow/Keras: For building and training deep learning models.
+
 Scikit-learn (Sklearn): For model evaluation and data splitting.
+
 Matplotlib: For data visualization, including plotting graphs and accuracy curves.
 
 Hardware Requirements:
 
 Raspberry Pi 3 Model B+: Central processing unit responsible for data processing and system control.
+
 Raspberry Pi Camera Module: Used for capturing high-resolution video of the infant.
+
 MicroSD Card: For storing the operating system and data.
 
 SYSTEM ARCHITECTURE
